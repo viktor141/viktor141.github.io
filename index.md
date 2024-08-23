@@ -46,6 +46,8 @@ description: Backend developer
 
 _allmods.ru_
 
+### All Mods (Стартап)
+
 **Middle backend developer** | Июнь 2024 - настоящее время (3 мес.)
 
 #### Разработка и поддержка backend будущего веб-сайта
