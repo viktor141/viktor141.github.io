@@ -37,6 +37,7 @@ description: Backend developer
 ## Опыт работы
 
 ### All Mods (Стартап)
+
 **Junior product manager** | Июнь 2024 - настоящее время (3 мес.)
 
 #### Аналитика рынка и формирование стратегии продукта
@@ -44,7 +45,7 @@ description: Backend developer
 - UI исследования, castdev пользователей
 - Ведение группы дизайнеров будущей площадки
 
-###  
+
 **Middle backend developer** | Июнь 2024 - настоящее время (3 мес.)
 
 #### Разработка и поддержка backend будущего веб-сайта
@@ -57,6 +58,7 @@ _allmods.ru_
 
 
 ### Cifrazia
+
 **Middle backend/game developer** | Март 2021 — Май 2024 (3 года)
 
 #### Разработка и поддержка клиент-серверной части.
@@ -69,6 +71,7 @@ _cifrazia.com_
 
 
 ### Esteria
+
 **Junior game designer/developer** | Сентябрь 2016 — Декабрь 2020 (4 года)
 
 #### Формирование и проработка игровых механик.
