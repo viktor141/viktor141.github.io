@@ -44,10 +44,6 @@ description: Backend developer
 - UI исследования, castdev пользователей
 - Ведение группы дизайнеров будущей площадки
 
-Go, PostgreSQL, Java.
-
-_allmods.ru_
-
 ### All Mods (Стартап)
 **Middle backend developer** | Июнь 2024 - настоящее время (3 мес.)
 
