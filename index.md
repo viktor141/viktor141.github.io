@@ -106,7 +106,9 @@ _Проект поглощен_
 
 
 <div style="text-align: center;">
-<button name="button" onclick="location.href='https://github.com/viktor141';">GitHub</button>
+  <a href="https://github.com/viktor141" target="_blank">
+    <button name="button">GitHub</button>
+  </a>
 </div>
 
 ## Контакты
