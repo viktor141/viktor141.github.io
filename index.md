@@ -29,7 +29,7 @@ description: Backend developer
 ## Навыки
 - **Языки программирования**: Java, JavaScript, C#, C++, Python
 - **Технологии баз данных**: MySQL, SQLite, PostgreSQL, Oracle Database
-- **Разработка и интеграция**: REST API, Agile (Scrum, Kanban), Spring Framework (включая Spring Boot, Spring MVC, Spring Data JPA), Hibernate, JPA
+- **Разработка и интеграция**: REST API, Agile (Scrum, Kanban), Spring Framework (включая Spring Boot, Spring MVC, Spring Data JPA), Hibernate, JPA, RabbitMQ, Kafka
 - **Инструменты и среды разработки**: Docker, Linux, Git, Figma, Apache Tomcat, IntelliJ IDEA
 - **Инструменты сборки и управления зависимостями**: Maven, Gradle, Nexus Sonatype Repository
 - **Инструменты управления проектами**: Space, Trello, Jira
